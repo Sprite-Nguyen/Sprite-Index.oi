@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/Style.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/owl.theme.default.css">
+<link rel="stylesheet" href="../css/hover.css">
+<link rel="icon" href="../images 2/logonho.png" type="image/x-icon">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<nav class="navbar navbar-expand-md bg-body-tertiary">
+  <div class="container"> <a class="navbar-brand" href="../index.html"><img src="../images 2/logo.gif" alt="" class="logo"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item"> <a class="nav-link active" aria-current="page" href="../About.html">Home</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../News.html">News</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../About.html">Illustrations </a> </li>
+		   <li class="nav-item"> <a class="nav-link" href="../News.html">Books </a> </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Dropdown </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../About.html">Action</a></li>
+            <li><a class="dropdown-item" href="../News.html">Another action</a></li>
+            <li><a class="dropdown-item" href="../index.html">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"> <a class="nav-link disabled" aria-disabled="true">Disabled</a> </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+	
+<!-- TemplateBeginEditable name="Hexashop" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<footer class="text-hong">
+	<div class="container">
+	<div class="row pt-4">
+	<div class="col-lg-3">
+		<a href="#"><img src="../images 2/logo.gif" alt="" class="img-fluid"></a>
+		<p class="pt-3">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</p>
+		<p>010-020-0340</p>
+		<p>hexashop@company.com</p>
+		</div>
+	<div class="col-lg-3">
+		<h4 class="text-hongto">Shopping &amp; Categories</h4>
+		<ul class="navbar-nav">
+		<li class="nav-item"><a href="#" class="nav-link">Hola Amiga / Good Soul</a></li>
+        <li class="nav-item"><a href="#" class="nav-link"> Human Electronsc</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">too much, too soon, too little, too late</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Cultivate generosity</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Spend time with positive people</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Learn to appreciate the successes of others</a></li>
+		</ul>
+		</div>
+ <div class="col-lg-3">
+		 <p><b  class="text-hongto">Form</b></p>
+		 <form action="#">
+		      <div class="row">
+			 <div class="col-6">
+				  <input type="text" placeholder="Your Name" class="form-control mb-15">
+				  </div>
+			<div class="col-6">
+				  <input type="email" placeholder="Your Email" class="form-control">
+				</div>
+			 </div>
+		     <div class="row">
+			    <div class="col-12">
+				 <input type="text" placeholder="Subject" class="form-control mb-15">
+				 <textarea name="message" placeholder="Message" class="form-control mb-15" style="height: 150px"></textarea>
+				 <button type="submit" class="btn btn-danger">Send Message</button>
+				 
+				  </div>
+			  </div>
+		  </form>
+		 </div>  
+	 <div class="col-lg-3">
+				 <p><b class="text-hongto">Maps</b></p>
+				<div class="map mb-15">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.425343042237!2d106.68754307588733!3d10.778698889370215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f3a9d1de879%3A0x638d7b3b7086ef91!2zMjE0IE5ndXnhu4VuIMSQw6xuaCBDaGnhu4N1LCBQaMaw4budbmcgNiwgUXXhuq1uIDMsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1689962506016!5m2!1svi!2s" width="300" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			</div></div>
+	</div>
+	</div>
+	</footer>
+<script src="../js/jquery-3.6.0.min.js"></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="../js/camnhan.js"></script>
+<script src="../js/labay.js"></script>
+<script src="../js/Control.js"></script>
+	
+</body>
+</html>
